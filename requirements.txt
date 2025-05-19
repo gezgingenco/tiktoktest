@@ -2,3 +2,4 @@ flask
 TikTokLive
 requests
 beautifulsoup4
+gunicorn
