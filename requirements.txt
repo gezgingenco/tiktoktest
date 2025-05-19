@@ -1,5 +1,5 @@
 flask
-TikTokLive==1.5.4
+TikTokLive
 requests
 beautifulsoup4
 gunicorn
