@@ -1,0 +1,4 @@
+flask
+TikTokLive
+requests
+beautifulsoup4
